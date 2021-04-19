@@ -1,3 +1,3 @@
 # harley-mckee.github.io
 
-This is my website
+Welcome to Harley McKee's personal website
